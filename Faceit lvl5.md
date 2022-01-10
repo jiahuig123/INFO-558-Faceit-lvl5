@@ -17,7 +17,7 @@
 <h1> </h1>
 <h2>Outcome</h2>
 <ul>
-<li>Lowest private score: 422.83885</li>
+<li>Lowest private score: 422.83885 (6th place)</li>
 <li>Final private score: 441.00791</li>
 </ul>
 </body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
